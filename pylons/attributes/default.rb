@@ -1,7 +1,7 @@
 #
-# Cookbook Name:: django
+# Cookbook Name:: pylons
 # Recipe:: default
-# Author:: Joshua Timberman (<joshua@opscode.com>)
+# Author:: Andrew W. Hill (<andrewxhill@gmail.com>)
 #
 # Copyright 2010, Opscode, Inc
 #
